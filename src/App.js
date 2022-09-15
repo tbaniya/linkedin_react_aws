@@ -15,9 +15,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React : exciting journey for me
+          Learn React
           
         </a>
+        <p>
+          Update your local application and deploy  to AWS
+        </p>
       </header>
     </div>
   );
